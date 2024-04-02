@@ -1,0 +1,13 @@
+.coordinate-system {
+  max-width: 900px;
+  position: relative;
+
+  svg {
+    position: absolute;
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+  }
+}
